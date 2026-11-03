@@ -63,6 +63,8 @@ sans quoi il ne recevrait aucun message tant qu'il n'a rien écrit
 
 <img width="627" height="193" alt="Capture d&#39;écran 2026-11-03 232050" src="https://github.com/user-attachments/assets/451341e7-f3b9-4ccf-8ff5-ce4f4c995398" /> 
 <img width="666" height="240" alt="Capture d&#39;écran 2026-11-03 232126" src="https://github.com/user-attachments/assets/497a571f-9464-49b9-b9d2-04fc330cb30e" /> 
+<img width="912" height="297" alt="Capture d&#39;écran 2026-11-03 234820" src="https://github.com/user-attachments/assets/b936f8e1-0bad-442e-ae07-7e2640d5c1bd" />
+
 
 # Synthèse 
 
